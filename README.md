@@ -1,6 +1,7 @@
 ![Logo](https://github.com/albertonr7/Memonarca/blob/533fd70e951858de953d52cfa6811988f983fce8/Dise%C3%B1os/logo.png)
 ---
-![version](https://img.shields.io/badge/Version-1.0-green)
+![version](https://img.shields.io/badge/Version-1.0-green) ![version](https://badgen.net/badge/icon/googleplay?icon=googleplay&label)
+---
 Juego de memoria educativo inspirado en la mariposa monarca, el arte dentro del juego fue realizado por jóvenes mexicanos de la Preparatoria José María Morelos y Pavón de La Paz, Baja California Sur, México.
 
 :butterfly: Juega el clásico juego de juntar pares de cartas \
